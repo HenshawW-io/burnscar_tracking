@@ -1,0 +1,7 @@
+.env
+.fuse_hidden*
+cache/
+*.tif
+*.parquet
+*.tif.aux.xml
+__pycache__/
